@@ -1,0 +1,28 @@
+.box{
+  width: 258px;
+  text-align: center;
+  border: 1px solid #DFE0EB;
+  border-radius: 8px;
+  padding: 24px 0px;
+  background-color: #fff;
+}
+
+.box-text{
+  margin: 0;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.4px;
+  color: #9FA2B4;
+  margin-bottom: 12px;
+}
+
+.number{
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  text-align: center;
+  letter-spacing: 1px;
+  color: #252733;
+}

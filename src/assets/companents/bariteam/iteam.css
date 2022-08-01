@@ -1,0 +1,25 @@
+.iteam{
+  padding: 18px 24px;
+} 
+
+
+.links{
+  display: flex;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.iteam:nth-child(1){
+  background-color: #3F4049;
+  border-left: 2px solid #ffffff ;
+  filter: drop-shadow(0px 4px 4px #00000040);
+}
+
+.iteam:nth-child(6){
+  border-bottom: 1px solid #3E3F48;
+}
+
+
+.imgs{
+  margin-right: 24px;
+}

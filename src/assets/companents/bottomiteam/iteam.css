@@ -1,0 +1,29 @@
+.bottom-list-iteam{
+  padding: 20px 32px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #DFE0EB ;
+}
+
+.bottom-list-iteam:last-child{
+  border: none;
+}
+
+.bottom-text{
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+  color: #252733;
+}
+
+.bottom-number{
+  display: block;
+  margin-left: auto;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: right;
+  letter-spacing: 0.2px;
+  color: #9FA2B4;
+}

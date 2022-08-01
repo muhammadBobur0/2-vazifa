@@ -1,0 +1,40 @@
+
+.Overview{
+  margin-bottom: 54px;
+}
+
+
+.serach-box{
+  display: flex;
+  align-items: center;
+}
+
+.search{
+  background-color: transparent;
+  border: none;
+  margin-right: 24px;
+}
+
+.news {
+  background-color: transparent;
+  border: none;
+  margin-right: 32px;
+}
+
+.name {
+  margin: 0;
+  margin-right: 14px;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+}
+
+.border{
+  display: block;
+  height: 100%;
+  width: 1px;
+  border-right: 1px solid #DFE0EB;
+  margin-right: 32px;
+
+}

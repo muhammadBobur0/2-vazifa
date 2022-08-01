@@ -1,0 +1,29 @@
+.sidebar-iteam {
+  width: 342px;
+  text-align: center;
+  padding-top: 32px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid #DFE0EB;
+}
+
+
+.text{
+  margin: 0;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;  
+  text-align: center;
+  letter-spacing: 0.3px;  
+  color: #9FA2B4;
+  margin-bottom: 6px;
+}
+
+.bottom{
+  margin: 0;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+  text-align: center;
+  letter-spacing: 0.3px;
+  color: #252733;
+}

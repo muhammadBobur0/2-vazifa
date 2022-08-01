@@ -1,0 +1,21 @@
+.sambar{
+  padding: 32px 0px;
+  background-color: #363740;
+  display: flex;
+  flex-direction: column;
+  max-width: 255px;
+  width: 100%;
+}
+
+.logo{
+  display: block;
+  margin: 0px auto;
+  margin-bottom: 59px;
+}
+.samlist {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}

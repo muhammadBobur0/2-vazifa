@@ -1,0 +1,99 @@
+
+.today{
+  background-color: #fff;
+  display: flex;
+  border: 1px solid #DFE0EB;
+  border-radius: 8px;
+  margin-bottom: 26px;
+}
+
+.days-box{
+  width: 780px;
+  padding: 32px 32px;
+  
+}
+
+.main-bar{
+  margin-left: auto;
+  border-left: 2px solid #DFE0EB;
+  height: 100%;
+}
+
+.data-static{
+  display: flex;
+  align-items: center;
+}
+
+
+.day{
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  letter-spacing: 0.1px;
+  color: #9FA2B4;
+  margin-right: 32px;
+}
+
+
+.day::before{
+  display: block;
+  width: 16px;
+  height: 1px;
+  background-color: #3751FF;
+  margin-right: 8px;
+  border-radius: 10px;
+  content: '';
+}
+
+
+.yestday{
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  letter-spacing: 0.1px;
+  color: #9FA2B4;
+}
+
+
+.yestday::before{
+  display: block;
+  width: 16px;
+  height: 1px;
+  background-color: #DFE0EB;
+  margin-right: 8px;
+  border-radius: 10px;
+  content: '';
+}
+
+.days{
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 24px;
+  letter-spacing: 0.4px;
+  color: #252733;
+  margin: 0;
+  margin-bottom: 8px;
+}
+
+.data{
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.1px;
+  color: #9FA2B4;
+  margin: 0;
+}
+
+.main-list{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.day{
+  margin-left: auto;
+}
