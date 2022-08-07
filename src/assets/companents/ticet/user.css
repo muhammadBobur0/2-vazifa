@@ -1,0 +1,163 @@
+.user{
+  display: flex;
+  align-items: center;
+  margin-bottom: 48px;
+}
+
+.tickets{
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 24px;
+  letter-spacing: 0.4px;
+  color: #252733;
+  margin: 0;
+}
+
+.Ticket{
+  margin: 0;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.2px;
+  color: #9FA2B4;
+}
+
+
+.dfelx{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px 0px;
+}
+
+.High{
+  background: #F12B2C;
+  padding: 5px 12px;
+  border-radius: 100px;
+  border: none;
+  color: #fff;
+  
+}
+
+.Normal{
+  background-color: #29CC97;
+  padding: 5px 12px;
+  border-radius: 100px;
+  border: none;
+  color: #fff;
+}
+
+
+
+.user-img{
+  margin-right: 21px;
+}
+
+.low{
+  background-color: #FEC400;
+  padding: 5px 12px;
+  border-radius: 100px;
+  border: none;
+  color: #fff;
+}
+
+
+.Ticket{
+  width: 70px;
+  flex-grow: 1;
+}
+
+.Ticket:nth-child(2){
+  width: 35px;
+
+}
+
+.Ticket:nth-child(3){
+  width: 275px;
+  flex-grow: 0;
+}
+
+.Ticket:nth-child(4){
+  width: 150px;
+  flex-grow: 0;
+}
+
+
+
+.btn{
+  background-color: transparent;
+  border: none;
+  margin-left: 82px;
+  
+}
+
+.cloum{
+  flex-grow: 1;
+}
+
+
+.name{
+  margin: 0;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+  color: #252733;
+  margin-bottom: 4px;
+}
+
+.data{
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;  
+  letter-spacing: 0.1px;  
+  color: #C5C7CD;
+}
+
+.uselist{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cloum{
+  display: flex;
+  flex-direction: column;
+}
+
+.deaitls{
+  display: flex;
+  align-items: center;
+  border-bottom: 2px solid #DFE0EB;
+  justify-content: space-around;
+  padding-bottom: 12px;
+}
+
+.sort{
+  display: block;
+  margin-left: auto;
+  background-color:  transparent;
+  border: none;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+  color: #4B506D;
+  margin-right: 34px;
+  
+}
+
+.imgsort{
+  margin-right: 9px;
+}
+
+
+.filter{
+  background-color:  transparent;
+  border: none;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+  color: #4B506D;
+}

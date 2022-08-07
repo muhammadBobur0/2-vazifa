@@ -9,6 +9,14 @@
   justify-content: space-between;
 }
 
+
+.links{
+  margin: 0;
+}
+
+a{
+  text-decoration: none;
+}
 .tittle{
   margin: 0;
 }
